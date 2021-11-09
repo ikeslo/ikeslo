@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ikeslo. I have a Bachelor of Science in Physics and Minor in Astronomy.
-- 👀 I’m interested in Data Science, Physics, Astronomy
+- 👋 Hi, I’m @ikeslo. I have a Bachelor of Science in Physics and a Minor in Astronomy.
+- 👀 I’m interested in Physics, Astronomy, and Data Science.
 - 🌱 I’m currently learning how to be a great Data Scientist.  
-- 💞️ I’m looking to collaborate on anything and help to fix code.  
+- 💞️ I’m looking to collaborate on anything and help to fix code.
 - 📫 I'm new here, so I'm not too sure how this work yet. 
 
 <!---
